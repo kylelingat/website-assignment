@@ -1,0 +1,55 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: rgba(119,136,153,0.2);
+  margin: auto;
+  width: 80%;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.mainHeader {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.basicInfo {
+  width: 88%;
+  margin: auto;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}
+
+
+  .App {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: rgba(119,136,153,0.2);
+    margin: auto;
+    width: 80%;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .mainHeader {
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+
+  
+  .App img {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .image {
+    height: 400px;
+    background: url(https://i.imgur.com/tzsYEb7.png);
+    background-size: auto;
+    background-position: center;
+    border-radius: 10px 10px 0px 0px;
+  }
+  
